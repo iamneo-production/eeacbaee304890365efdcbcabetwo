@@ -1,14 +1,4 @@
 
-@import url("https://fonts.googleapis.com/css2?family=Radio+Canada:wght@400;500;600;700&display=swap");
-
-body {
-    background-image: url("https://cdn.pixabay.com/photo/2018/03/17/19/36/connection-3234929_1280.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    font-family: "Radio Canada", sans-serif;
-  }
-  
   h1 {
     color: orangered;
     margin-bottom: -5px;
@@ -48,7 +38,7 @@ p {
     border-bottom: 1px solid gray
     #b3 {
       border-bottom: 1px solid gray;
-      border-left: 1px solid gray;
+      border-left : 1px solid gray;
   }
     
   #b4 {
